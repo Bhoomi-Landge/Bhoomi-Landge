@@ -1,11 +1,11 @@
  👋 Hi there, I'm Bhoomi Landge!  
-🎓 An IT student at Don Bosco Institute of Technology, passionate about building engaging web applications
+🎓 An IT student of Don Bosco Institute of Technology, passionate about building engaging web applications
 
 ---
 
 ## 💫 About Me
 
-- 🎓 Currently pursuing a degree in **Information Technology** at **Don Bosco Institute of Technology**
+- 🎓 Pursued a degree in **Information Technology** at **Don Bosco Institute of Technology**
 - 💻 Love creating clean, user-friendly, and scalable web applications
 - 🌱 Learning **Next.js**, **TypeScript**, **Tailwind CSS**, **Flask**, and **C++**
 - 🔭 Focused on solving real-world problems with creative and reliable code
