@@ -10,7 +10,7 @@
 - 🌱 Learning **Next.js**, **TypeScript**, **Tailwind CSS**, **Flask**, and **C++**
 - 🔭 Focused on solving real-world problems with creative and reliable code
 - 💬 Ask me about React, Flask, full-stack development, or any tech topic!
-- 📫 Reach me at: **bhoomilandge@example.com** 
+- 📫 Reach me at: **bhoomilandge@gmail.com** 
 
 ---
 
